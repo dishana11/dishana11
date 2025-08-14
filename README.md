@@ -4,14 +4,18 @@
 [![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fbeacons.ai/dishana&color=ff073a)](https://beacons.ai/dishana)
 [![Twitter Follow](https://img.shields.io/badge/follow-%40dishana11-ff073a?logo=twitter&style=for-the-badge&logoColor=ff073a)](https://twitter.com/intent/follow?screen_name=dishana11)
 
-<img src="https://raw.githubusercontent.com/dishana11/dishana11/main/assets/dishana_og_intro (online-video-cutter.com) (1).gif" width="600" height="600" alt="Welcome to Dishana's Projects Animation" />
+<img src="https://raw.githubusercontent.com/dishana11/dishana11/main/assets/dishana_og_intro%20(online-video-cutter.com)%20(1).gif" width="600" height="600" alt="Welcome to Dishana's Projects Animation" />
 
 </div>
+
+---
 
 ## About Me 💬
 I'm a Physics enthusiast aiming to research M-Theory, with a deep passion for AI, AGI, robotics, and high-performance computing. I’ve built autonomous robots like **Marvin**, safety-focused apps, and worked on projects blending advanced tech with real-world impact. I’m also preparing for competitive physics & programming challenges, driven by a mission to make advanced research tools and AGI-powered solutions accessible to everyone.
 
-### Connect with Me
+---
+
+### Connect with Me  
 [<img align="center" alt="Website" width="42px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="center" alt="YouTube" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="center" alt="X (Twitter)" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
@@ -20,6 +24,7 @@ I'm a Physics enthusiast aiming to research M-Theory, with a deep passion for AI
 
 ---
 
+### ⚡ GitHub Stats
 ![Dishana GitHub Stats](https://github-readme-stats.vercel.app/api?username=dishana11&show_icons=true&count_private=true&title_color=ff073a&text_color=ff073a&icon_color=ff073a&bg_color=000000)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dishana11&layout=compact&title_color=ff073a&text_color=ff073a&bg_color=000000&count_private=true)
@@ -28,7 +33,12 @@ I'm a Physics enthusiast aiming to research M-Theory, with a deep passion for AI
 
 ---
 
-##  Publications
+### 🔥 Custom Glowing Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dishana11&bg_color=000000&color=ff073a&line=ff073a&point=ffffff&area=true&hide_border=true&custom_title=🔥%20Contribution%20Graph%20🔥)
+
+---
+
+## 📚 Publications
 Read more about my work on **time travel** and **computer vision** → [dishana11.github.io](https://dishana11.github.io)
 
 ---
