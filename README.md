@@ -33,8 +33,9 @@ I'm a Physics enthusiast aiming to research M-Theory, with a deep passion for AI
 
 ---
 
-### 🔥 Custom Glowing Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dishana11&bg_color=000000&color=ff073a&line=ff073a&point=ffffff&area=true&hide_border=true&custom_title=🔥%20Contribution%20Graph%20🔥)
+### 🖤 Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dishana11&bg_color=000000&color=ff073a&line=ff073a&point=ff073a&hide_border=true)
+
 
 ---
 
