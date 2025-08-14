@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fbeacons.ai/dishana&color=ff073a)](https://beacons.ai/dishana)
 [![Twitter Follow](https://img.shields.io/badge/follow-%40dishana11-ff073a?logo=twitter&style=for-the-badge&logoColor=ff073a)](https://twitter.com/intent/follow?screen_name=dishana11)
 
-<img src="https://raw.githubusercontent.com/dishana11/dishana11/main/assets/dishana_og_intro (online-video-cutter.com) (1).gif" width="600" height="711" alt="Welcome to Dishana's Projects Animation" />
+<img src="https://raw.githubusercontent.com/dishana11/dishana11/main/assets/dishana_og_intro (online-video-cutter.com) (1).gif" width="600" height="600" alt="Welcome to Dishana's Projects Animation" />
 
 </div>
 
