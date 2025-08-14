@@ -4,30 +4,35 @@
 [![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fbeacons.ai/dishana&color=ff073a)](https://beacons.ai/dishana)
 [![Twitter Follow](https://img.shields.io/badge/follow-%40dishana-ff073a?logo=twitter&style=for-the-badge&logoColor=ff073a)](https://twitter.com/intent/follow?screen_name=dishana)
 
-<div align="center">
-<video height="600" width="1200" controls>
-  <source src="https://github.com/dishana11/dishana_og_intro/raw/main/dishana_og_intro.mp4" type="video/mp4">
+<video height="600" width="1200" controls muted>
+  <source src="https://github.com/user-attachments/assets/36e9121d-4cbb-423a-9318-8b092a3b40fc" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-<!-- For GIF (optional), uncomment and replace with GIF URL if needed:
-<img height="600" width="1200" alt="Welcome to Dishana's Projects Animation" align="center" src="https://github.com/dishana11/dishana11/blob/main/dishana_og_intro.mp4">
--->
+
 </div>
+
+---
 
 ## About Me 💬
 
 I'm a Physics enthusiast aiming to research M-Theory, with a deep passion for AI, AGI, robotics, and high-performance computing. I’ve built autonomous robots like **Marvin**, safety-focused apps, and worked on projects blending advanced tech with real-world impact. I’m also preparing for competitive physics & programming challenges, driven by a mission to make advanced research tools and AGI-powered solutions accessible to everyone.
 
-### Connect with Me
-[<img align="center" alt="beacons.ai/dishana" width="42px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="fill: #ff073a;" />][website]
-[<img align="center" alt="Dishana | YouTube" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="fill: #ff073a;" />][youtube]
-[<img align="center" alt="Dishana | X" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="fill: #ff073a;" />][twitter] 
-[<img align="center" alt="Dishana | LinkedIn" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="fill: #ff073a;" />][linkedin] 
-[<img align="center" alt="Dishana | Instagram" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="fill: #ff073a;"/>][instagram]
+---
 
-</div>
+## 📚 Publications  
+Read more about my publications here:  
+I have published research papers on **time travel** and **computer vision** → [dishana11.github.io](https://dishana11.github.io)
 
-<br />
+---
+
+### Connect with Me  
+[<img align="center" alt="beacons.ai/dishana" width="42px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="center" alt="Dishana | YouTube" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="center" alt="Dishana | X" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
+[<img align="center" alt="Dishana | LinkedIn" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
+[<img align="center" alt="Dishana | Instagram" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+---
 
 ![Dishana GitHub Stats](https://github-readme-stats.vercel.app/api?username=dishana&show_icons=true&title_color=ff073a&text_color=ff073a&icon_color=ff073a&bg_color=000000)
 
@@ -39,13 +44,7 @@ I'm a Physics enthusiast aiming to research M-Theory, with a deep passion for AI
     <img height="190" width="49%" align="center" src="https://leetcard.jacoblin.cool/dishana?theme=dark&font=monospace&ext=contest&bg=000000&text=ff073a&icon=ff073a"/>
 </a>
 
-<br />
-
-**𝗔𝗪𝗔𝗥𝗗𝗦**
-
-![trophy](https://github-profile-trophy.vercel.app/?username=dishana&row=2&column=3&theme=onedark&no-bg=true&no-frame=true&title_color=ff073a&text_color=ff073a&icon_color=ff073a)
-
-<br />
+---
 
 **𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗜𝗘𝗦**
 
@@ -67,14 +66,13 @@ I'm a Physics enthusiast aiming to research M-Theory, with a deep passion for AI
 ![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=GIT)
 ![GITHUB](https://img.shields.io/badge/-GITHUB-181717?style=flat-square&logo=GITHUB)
 
-![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dishana&theme=transparent)
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dishana&theme=transparent)
+---
 
-[website]: https://beacons.ai/dishana
-[twitter]: https://twitter.com/dishana
-[youtube]: https://www.youtube.com/@dishana
-[instagram]: https://instagram.com/dishana
-[linkedin]: https://www.linkedin.com/in/dishana
+[website]: https://beacons.ai/dishana  
+[twitter]: https://twitter.com/dishana  
+[youtube]: https://www.youtube.com/@dishana  
+[instagram]: https://instagram.com/dishana  
+[linkedin]: https://www.linkedin.com/in/dishana  
 
 <details open>
 <summary><h3>📊 Statistics</h3> <img height="20px" src="https://visitcount.itsvg.in/api?id=dishana&label=Profile%20Views&color=ff073a&icon=5&pretty=true" /></summary>
