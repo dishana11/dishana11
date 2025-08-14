@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/badge/follow-%40dishana-ff073a?logo=twitter&style=for-the-badge&logoColor=ff073a)](https://twitter.com/intent/follow?screen_name=dishana)
 
 <div align="center">
-<img height="800" width="1600" alt="GIF" align="center" src="https://github.com/MiChaelinzo/MiChaelinzo/blob/master/source.gif">
+<img height="800" width="1600" alt="GIF" align="center" src="https://github.com/lob/master/source.gif">
 </div>
 
 <div align="center">
