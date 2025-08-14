@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fbeacons.ai/dishana&color=ff073a)](https://beacons.ai/dishana)
 [![Twitter Follow](https://img.shields.io/badge/follow-%40dishana-ff073a?logo=twitter&style=for-the-badge&logoColor=ff073a)](https://twitter.com/intent/follow?screen_name=dishanaa11)
 
-<img src="dishana_og_intro_small(1).gif" width="800" alt="Welcome to Dishana's Projects Animation" />
+<img src="dishana_og_intro(1).gif" width="800" alt="Welcome to Dishana's Projects Animation" />
 
 </div>
 
